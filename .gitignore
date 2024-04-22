@@ -1,0 +1,11 @@
+#esto es un comentario
+#despues de este punto digo que ignore los csv,xls y xslsx
+*.csv
+*.xls
+*.xlsxvgwRHGtheqA
+
+#si quisiera ignorar una carpeta
+nombDBGQBEGBEGre_carpeta
+
+datos/*.json
+
